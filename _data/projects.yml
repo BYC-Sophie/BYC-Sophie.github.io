@@ -16,16 +16,7 @@ main:
     code: https://github.com/Huang-Raoyi/oa-learning-app
 
   - title: Analytics Tool for Federal Trade Commission (FTC) Cases
-      authors: A visualization and analytics tool that aids the Federal Trade Commission (FTC) in conducting investigations to detect companies engaged in unlawful practices that harm consumers in any manner.
-      image: ./assets/img/java-crimes.png
-      code: https://github.com/BYC-Sophie/FTC-analytics
-  # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-  #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  #   conference_short: CVPR
-  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-  #   pdf: https://arxiv.org/pdf/2002.10211.pdf
-  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   notes: Oral Presentation
-  #   image: ./assets/img/teaser_example.png
+    authors: A visualization and analytics tool that aids the Federal Trade Commission (FTC) in conducting investigations to detect companies engaged in unlawful practices that harm consumers in any manner.
+    image: ./assets/img/java-crimes.png
+    code: https://github.com/BYC-Sophie/FTC-analytics
+
