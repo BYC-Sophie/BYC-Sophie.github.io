@@ -1,0 +1,20 @@
+main:
+
+  - title: "Practicum-Oriented Entrepreneurship Education: A Systematic Literature Review"
+    authors: Tianyu Chen, <strong>Yuanchen Bai</strong>, Pradeep Ray, Gang Zheng
+    conference_short: Springer Nature
+    conference: Technology Entrepreneurship and Sustainable Development. Disaster Risk Reduction. Springer, Singapore.
+    pdf: https://drive.google.com/drive/folders/1br7Z9wGzaCJLuDnCgkR2sJ_UoMsmZQs0
+    image: ./assets/img/book-chapter-image.png
+
+
+  # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+  #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  #   conference_short: CVPR
+  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+  #   pdf: https://arxiv.org/pdf/2002.10211.pdf
+  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   notes: Oral Presentation
+  #   image: ./assets/img/teaser_example.png

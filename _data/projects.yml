@@ -1,0 +1,31 @@
+main:
+
+  - title: ChatGPT-empowered Digital Blog Co-creation Assistant for Elderly Learning
+    authors: A web application that showcases excellent blog samples, assists with composition outlines and logics by interactive question answering, and eases manipulation difficulty of digital devices by dragging-and-dropping to co-create digital blogs with the elderly.
+    image: ./assets/img/elderly-ui.png
+    code: https://github.com/Huang-Raoyi/oa-learning-app
+
+  - title: WeChat Mini Program for Marketing and Customer Care (General Motors)
+    authors: A full-stack Direct-to-Customer (D2C) Cloud-based WeChat Mini Program for marketing and customer care. Supported by backend data analytics for user profiles extraction and strategies evaluation. 
+    image: ./assets/img/GM-MiniProgram.png
+    # code: https://github.com/Huang-Raoyi/oa-learning-app
+
+  - title: Multi-User Chatbot Module
+    authors: A web application designed to support seamless multi-user conversation and can serve as an interaction prototype inspired by giants like WeChat and QQ. Utilized as a module integrated into larger projects.
+    image: ./assets/img/multiside-chatbot.jpeg
+    code: https://github.com/Huang-Raoyi/oa-learning-app
+
+  - title: Analytics Tool for Federal Trade Commission (FTC) Cases
+      authors: A visualization and analytics tool that aids the Federal Trade Commission (FTC) in conducting investigations to detect companies engaged in unlawful practices that harm consumers in any manner.
+      image: ./assets/img/java-crimes.png
+      code: https://github.com/BYC-Sophie/FTC-analytics
+  # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+  #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  #   conference_short: CVPR
+  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+  #   pdf: https://arxiv.org/pdf/2002.10211.pdf
+  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   notes: Oral Presentation
+  #   image: ./assets/img/teaser_example.png
