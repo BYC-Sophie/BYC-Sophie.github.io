@@ -9,12 +9,11 @@ Hi! I am a first-year graduate student in Information Systems Management at Carn
 In CMU, I am fortunate to work with Prof. [Sherry Tongshuang Wu](https://www.cs.cmu.edu/~sherryw/) for NLP dataset characterization and Prof. [Motahhare Eslami](https://www.hcii.cmu.edu/people/motahhare-eslami) for Algorithm Fairness. 
 
 
-- ## Research Interests -
-
-- - **Human-Computer Interaction:** Healthcare, LLM Application and Evaluation, Reinforcement Learning from Human Feedback, Algo Fairness
-- - **Algorithmic Fairness, Accountability & Transparency** 
-- - **Multimodal Machine Learning** 
-- - **Technology Entrepreneurship and Sustainable Development** 
+- ## Research Interests
+    - **Human-Computer Interaction:**  Healthcare, LLM Application and Evaluation, Reinforcement Learning from Human Feedback
+    - **Algorithmic Fairness, Accountability & Transparency**
+    - **Multimodal Machine Learning**
+    - **Technology Entrepreneurship and Sustainable Development**
 
 ## News
 
