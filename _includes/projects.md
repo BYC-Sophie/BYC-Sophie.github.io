@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Selected Demos</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Other Selected Demos</h2>
 
 <div class="publications">
 <ol class="bibliography">

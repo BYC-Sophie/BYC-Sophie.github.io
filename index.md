@@ -6,24 +6,24 @@ layout: homepage
 
 Hi! I am a first-year graduate student in Information Systems Management at Carnegie Mellon University (CMU) expected to graduate in 2023 Fall. Before joining CMU, I obtained a Bachelor of Science in Electrical and Computer Engineering at Shanghai Jiao Tong University (SJTU) with Outstanding Graduate and Academic Excellence in June 2022. I also exchanged at Massachusetts Institute of Technology (MIT) for Robotics.
 
-In CMU, I am fortunate to work with Prof. [Sherry Tongshuang Wu](https://www.cs.cmu.edu/~sherryw/) for NLP dataset characterization and Prof. [Motahhare Eslami](https://www.hcii.cmu.edu/people/motahhare-eslami) for Algorithm Fairness. 
+In CMU, I am fortunate to work with [Prof. Sherry Tongshuang Wu](https://www.cs.cmu.edu/~sherryw/) for LLM adversalarity and [Prof. Motahhare Eslami](https://www.hcii.cmu.edu/people/motahhare-eslami) for Algorithm Fairness. 
+
+In SJTU, I am fortunate to be adviced by [Prof. Pradeep Kumar Ray](https://sites.ji.sjtu.edu.cn/entrepreneurship/views/pradeep_bio.html) in Technology Entrepreneurship. I am curretly co-mentored by Prof. Pradeep and [Prof. Guangtao Zhai](https://ee.sjtu.edu.cn/en/FacultyDetail.aspx?id=24&infoid=153&flag=153), for asisstive technology for ASD detection and intervention.
 
 
 - ## Research Interests
-    - **Human-Computer Interaction:**  Healthcare, LLM Application and Evaluation, Reinforcement Learning from Human Feedback
-    - **Algorithmic Fairness, Accountability & Transparency**
+    - **Human-AI Synergy:**  Assistive Technology in Healthcare, LLM Application and Evaluation, Human-Engaged Computing
     - **Multimodal Machine Learning**
+    - **Algorithmic Fairness, Accountability & Transparency**
     - **Technology Entrepreneurship and Sustainable Development**
 
 ## News
-
+- **[Oct. 2023]** Paper "Measuring Adversarial Datasets" has been accepted by IJCNLP-AACL 2023.
 - **[Aug. 2023]** Started my capstone project at [Bayer](https://www.bayer.com/en/) for myRadiology360 cross-platform mobile application development.
 - **[June 2023]** Started a summer internship at [Pittsburgh Earth Day](https://pittsburghearthday.org/) working on a mobile app "Excess Eats" that helps people live a more sustainable life by connecting with local businesses throughout Pittsburgh and Western Pennsylvania.
-- **[May 2023]** Started a remote summer internship at [HKUST HCI](https://cse.hkust.edu.hk/) working on a feature-augmented robot trajectory preference labeling system to
-assist human labelers’ preference elicitation.
 - **[Sept. 2022]** Joined the MISM program at CMU.
 
-
-{% include_relative _includes/projects.md %} 
 {% include_relative _includes/publications.md %}
+{% include_relative _includes/projects.md %} 
+{% include_relative _includes/other_Info.md %}
 

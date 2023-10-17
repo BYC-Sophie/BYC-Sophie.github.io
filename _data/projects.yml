@@ -1,11 +1,15 @@
 main:
+  - title: Bayer Educational Information Mobile App 
+    authors: A cross-platform mobile application myRadiology360 developed by Flutter and Firebase backend, which offers educational resources on imaging exams and disease states for patients and supports continued learning for healthcare professionals.
+    image: ./assets/img/bayer-ui.png
+    code: https://github.com/pawankumar-bayer/bayer_capstone
 
   - title: ChatGPT-empowered Digital Blog Co-creation Assistant for Elderly Learning
     authors: A web application that showcases excellent blog samples, assists with composition outlines and logics by interactive question answering, and eases manipulation difficulty of digital devices by dragging-and-dropping to co-create digital blogs with the elderly.
     image: ./assets/img/elderly-ui.png
     code: https://github.com/Huang-Raoyi/oa-learning-app
 
-  - title: WeChat Mini Program for Marketing and Customer Care (General Motors)
+  - title: General Motors WeChat Mini Program for Marketing and Customer Care
     authors: A full-stack Direct-to-Customer (D2C) Cloud-based WeChat Mini Program for marketing and customer care. Supported by backend data analytics for user profiles extraction and strategies evaluation. 
     image: ./assets/img/GM-MiniProgram.png
     # code: https://github.com/Huang-Raoyi/oa-learning-app
