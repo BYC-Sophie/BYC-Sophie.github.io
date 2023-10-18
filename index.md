@@ -8,7 +8,7 @@ Hi! I am a first-year graduate student in Information Systems Management at Carn
 
 In CMU, I am fortunate to work with [Prof. Sherry Tongshuang Wu](https://www.cs.cmu.edu/~sherryw/) for LLM adversalarity and [Prof. Motahhare Eslami](https://www.hcii.cmu.edu/people/motahhare-eslami) for Algorithm Fairness. 
 
-In SJTU, I am fortunate to be adviced by [Prof. Pradeep Kumar Ray](https://sites.ji.sjtu.edu.cn/entrepreneurship/views/pradeep_bio.html) in Technology Entrepreneurship. I am curretly co-mentored by Prof. Pradeep and [Prof. Guangtao Zhai](https://ee.sjtu.edu.cn/en/FacultyDetail.aspx?id=24&infoid=153&flag=153), for asisstive technology for ASD detection and intervention.
+In SJTU, I am fortunate to be adviced by [Prof. Pradeep Kumar Ray](https://sites.ji.sjtu.edu.cn/entrepreneurship/views/pradeep_bio.html) in Technology Entrepreneurship. I am curretly co-mentored by Prof. Pradeep Ray and [Prof. Guangtao Zhai](https://scholar.google.ca/citations?user=E6zbSYgAAAAJ&hl=en), for asisstive technology for ASD detection and intervention.
 
 
 - ## Research Interests
@@ -24,5 +24,6 @@ In SJTU, I am fortunate to be adviced by [Prof. Pradeep Kumar Ray](https://sites
 
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/projects.md %} 
+{% include_relative _includes/industry.md %}
 {% include_relative _includes/other_Info.md %}
 
