@@ -47,7 +47,6 @@
 <br>
 
 {% endfor %}
-(Unpublished industry projects are unable to be showcased.)
 
 </ol>
 </div>

@@ -25,5 +25,6 @@ In SJTU, I am fortunate to be adviced by [Prof. Pradeep Kumar Ray](https://sites
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/projects.md %} 
 {% include_relative _includes/industry.md %}
+{% include_relative _includes/teaching.md %}
 {% include_relative _includes/other_Info.md %}
 
