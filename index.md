@@ -12,9 +12,8 @@ In SJTU, I am fortunate to be adviced by [Prof. Pradeep Kumar Ray](https://sites
 
 
 - ## Research Interests
-    - **Human-AI Synergy:**  Assistive Technology in Healthcare, LLM Application and Evaluation, Human-Engaged Computing
+    - **Human-AI Synergy:**  Assistive Technology in Healthcare, LLM Application and Evaluation, Human-Engaged Computing, Algorithmic Fairness
     - **Multimodal Machine Learning**
-    - **Algorithmic Fairness, Accountability & Transparency**
     - **Technology Entrepreneurship and Sustainable Development**
 
 ## News
