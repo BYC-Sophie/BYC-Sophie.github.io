@@ -6,7 +6,7 @@ layout: homepage
 
 Hi! I am a first-year graduate student in Information Systems Management at Carnegie Mellon University (CMU) expected to graduate in 2023 Fall. Before joining CMU, I obtained a Bachelor of Science in Electrical and Computer Engineering at Shanghai Jiao Tong University (SJTU) with Outstanding Graduate and Academic Excellence in June 2022. I also exchanged at Massachusetts Institute of Technology (MIT) for Robotics.
 
-In CMU, I am fortunate to work with [Prof. Sherry Tongshuang Wu](https://www.cs.cmu.edu/~sherryw/) for LLM adversalarity and [Prof. Motahhare Eslami](https://www.hcii.cmu.edu/people/motahhare-eslami) for Algorithm Fairness. 
+In CMU, I am fortunate to work with [Prof. Sherry Tongshuang Wu](https://www.cs.cmu.edu/~sherryw/) for LLM adversalarity and [Prof. Motahhare Eslami](https://www.hcii.cmu.edu/people/motahhare-eslami) for Algorithm Fairness. I also participated in a remote research internship with [Prof. Xiaojvan Ma](https://www.cse.ust.hk/~mxj/) on human preference elicitation.
 
 In SJTU, I am fortunate to be adviced by [Prof. Pradeep Kumar Ray](https://sites.ji.sjtu.edu.cn/entrepreneurship/views/pradeep_bio.html) in Technology Entrepreneurship. I am curretly co-mentored by Prof. Pradeep Ray and [Prof. Guangtao Zhai](https://scholar.google.ca/citations?user=E6zbSYgAAAAJ&hl=en), for asisstive technology for ASD detection and intervention.
 
