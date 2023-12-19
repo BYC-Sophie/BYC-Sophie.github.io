@@ -1,4 +1,4 @@
-main:
+main: 
   - title: Bayer Educational Information Mobile App 
     authors: A cross-platform mobile application myRadiology360 developed by Flutter and Firebase backend, which offers educational resources on imaging exams and disease states for patients and supports continued learning for healthcare professionals.
     image: ./assets/img/bayer-ui.png
@@ -16,7 +16,7 @@ main:
 
   - title: Multi-User Chatbot Module
     authors: A web application designed to support seamless multi-user conversation and can serve as an interaction prototype inspired by giants like WeChat and QQ. Utilized as a module integrated into larger projects.
-    image: ./assets/img/multiside-chatbot.jpeg
+    image: ./assets/img/multichat.jpg
     code: https://github.com/Huang-Raoyi/oa-learning-app
 
   - title: Analytics Tool for Federal Trade Commission (FTC) Cases

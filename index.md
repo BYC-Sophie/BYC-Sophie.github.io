@@ -12,14 +12,14 @@ At SJTU, I am fortunate to be adviced by [Prof. Pradeep Kumar Ray](https://sites
 
 
 - ## Research Interests
-    - **Human-AI Synergy:**  Assistive Technology in Healthcare, LLM Application and Evaluation, Human-Engaged Computing, Algorithmic Fairness
-    - **Multimodal Machine Learning**
-    - **Technology Entrepreneurship and Sustainable Development**
+    Human-AI/Computer/Robot Interaction (HAI/HCI/HRI), Human-Centered Computing (HCC), Multimodal Machine Learning (MMML), Natural Language Processing (NLP), Socially Assistive Robotics (SAR), Social Computing
 
 ## News
+- **[Dec. 2023]** Paper "FARPLS: A Feature-Augmented Robot Trajectory Preference Labeling System to Assist Human Labelers’ Preference Elicitation" has been early accepted by ACM IUI 2024.
+- **[Dec. 2023]** Paper "ChatASD: LLM-based AI Therapist for Autism Spectrum Disorder (ASD)" has been early accepted by IFTC 2023.
 - **[Oct. 2023]** Paper "Measuring Adversarial Datasets" has been accepted by IJCNLP-AACL 2023.
-- **[Aug. 2023]** Started my capstone project at [Bayer](https://www.bayer.com/en/) for myRadiology360 cross-platform mobile application development.
-- **[June 2023]** Started a summer internship at [Pittsburgh Earth Day](https://pittsburghearthday.org/) working on a mobile app "Excess Eats" that helps people live a more sustainable life.
+- **[Aug. 2023]** Started my capstone project at [Bayer Healthcare LLC](https://www.bayer.com/en/) for myRadiology360 cross-platform mobile application development and deployment.
+- **[June 2023]** Volunteered at [Pittsburgh Earth Day](https://pittsburghearthday.org/) working on a mobile app "Excess Eats" that helps people live a more sustainable life.
 - **[Sept. 2022]** Joined the MISM program at CMU.
 
 {% include_relative _includes/publications.md %}

@@ -5,19 +5,40 @@ main:
     pdf: https://drive.google.com/drive/folders/1br7Z9wGzaCJLuDnCgkR2sJ_UoMsmZQs0
     code: https://github.com/BYC-Sophie/TextMetrics
     notes: Early Accept
-    image: ./assets/img/adversarial-table.png
+    # image: ./assets/img/adversarial-table.png
 
   - title: "Practicum-Oriented Entrepreneurship Education: A Systematic Literature Review"
     authors: Tianyu Chen, <strong>Yuanchen Bai</strong>, Pradeep Ray, Gang Zheng
     conference_short: Springer Nature, 2021
     conference: Technology Entrepreneurship and Sustainable Development. Disaster Risk Reduction. Springer, Singapore.
     pdf: https://drive.google.com/drive/folders/1br7Z9wGzaCJLuDnCgkR2sJ_UoMsmZQs0
-    image: ./assets/img/book-chapter-image.png
+    # image: ./assets/img/book-chapter-image.png
 
   - title: "FARPLS: A Feature-Augmented Robot Trajectory Preference Labeling System to Assist Human Labelers’ Preference Elicitation"
     authors: Hanfang Lyu, <strong>Yuanchen Bai</strong>, Xin LIANG, Ujaan Das, Chuhan Shi, Leiliang Gong, Yingchi LI, Mingfei Sun, Ming Ge, Xiaojuan Ma
-    # conference: IJCNLP-AACL, 2023
+    conference: ACM Conference on Intelligent User Interfaces (ACM IUI, 2024)
     # pdf: https://drive.google.com/drive/folders/1br7Z9wGzaCJLuDnCgkR2sJ_UoMsmZQs0
     # code: https://github.com/BYC-Sophie/TextMetrics
-    notes: Under Review at ACM Conference on Intelligent User Interfaces (ACM IUI, 2024)
+    notes: Early Accept (based on Dec 14 review results)
     # image: ./assets/img/adversarial-table.png
+
+  - title: "FARPLS: Eliciting Preference Feedback for Robot Trajectories from Human Users"
+    authors: Hanfang Lyu, <strong>Yuanchen Bai</strong>, Xin LIANG, Ujaan Das, Chuhan Shi, Leiliang Gong, Yingchi LI, Mingfei Sun, Ming Ge, Xiaojuan Ma
+    conference: "AAAI-24 Bridge Program: Collaborative AI and Modelling of Human (CAIHu) (no proceedings)"
+    # pdf: https://drive.google.com/drive/folders/1br7Z9wGzaCJLuDnCgkR2sJ_UoMsmZQs0
+    # code: https://github.com/BYC-Sophie/TextMetrics
+    notes: Accept
+
+  - title: "ChatASD: LLM-based AI Therapist for Autism Spectrum Disorder (ASD)"
+    authors: Xiaoyu Ren, <strong>Yuanchen Bai}</strong>, Huiyu Duan, Lei Fan, Erkang Fei, Geer Wu, Pradeep Ray, Menghan Hu, Guangtao Zhai
+    conference: International Forum of Digital Multimedia Communication (IFTC), 2023
+    # pdf: https://drive.google.com/drive/folders/1br7Z9wGzaCJLuDnCgkR2sJ_UoMsmZQs0
+    # code: https://github.com/BYC-Sophie/TextMetrics
+    notes: Early Accept
+
+  - title: "Systematic Literature Review: Equity and Technology in HCI and Fairness Community"
+    authors: Seyun Kim, <strong>Yuanchen Bai</strong>, Motahhare Eslami, Haiyi Zhu
+    # conference: Computer-Supported Cooperative Work & Social Computing (CSCW) January 2024 Cycle
+    # pdf: https://drive.google.com/drive/folders/1br7Z9wGzaCJLuDnCgkR2sJ_UoMsmZQs0
+    # code: https://github.com/BYC-Sophie/TextMetrics
+    notes: To be Submitted
