@@ -2,21 +2,23 @@ main:
   - title: Measuring Adversarial Datasets
     authors: <strong>Yuanchen Bai*</strong>,  Raoyi Huang*, Vijay Viswanathan, Tzu-Sheng Kuo, Tongshuang Wu
     conference: IJCNLP-AACL (ART of Safety Workshop), 2023
+    conference_short: IJCNLP-AACL, 2023
     pdf: https://drive.google.com/drive/folders/1br7Z9wGzaCJLuDnCgkR2sJ_UoMsmZQs0
     code: https://github.com/BYC-Sophie/TextMetrics
     notes: Early Accept
-    # image: ./assets/img/adversarial-table.png
+    image: ./assets/img/adversarial-table.png
 
   - title: "Practicum-Oriented Entrepreneurship Education: A Systematic Literature Review"
     authors: Tianyu Chen, <strong>Yuanchen Bai</strong>, Pradeep Ray, Gang Zheng
     conference_short: Springer Nature, 2021
     conference: Technology Entrepreneurship and Sustainable Development. Disaster Risk Reduction. Springer, Singapore.
     pdf: https://drive.google.com/drive/folders/1br7Z9wGzaCJLuDnCgkR2sJ_UoMsmZQs0
-    # image: ./assets/img/book-chapter-image.png
+    image: ./assets/img/book-chapter-image.png
 
   - title: "FARPLS: A Feature-Augmented Robot Trajectory Preference Labeling System to Assist Human Labelers’ Preference Elicitation"
     authors: Hanfang Lyu, <strong>Yuanchen Bai</strong>, Xin LIANG, Ujaan Das, Chuhan Shi, Leiliang Gong, Yingchi LI, Mingfei Sun, Ming Ge, Xiaojuan Ma
     conference: ACM Conference on Intelligent User Interfaces (ACM IUI, 2024)
+    # conference_short: ACM IUI, 2024
     # pdf: https://drive.google.com/drive/folders/1br7Z9wGzaCJLuDnCgkR2sJ_UoMsmZQs0
     # code: https://github.com/BYC-Sophie/TextMetrics
     notes: Early Accept (based on Dec 14 review results)
