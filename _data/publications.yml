@@ -5,7 +5,7 @@ main:
     conference_short: IJCNLP-AACL, 2023
     pdf: https://drive.google.com/drive/folders/1br7Z9wGzaCJLuDnCgkR2sJ_UoMsmZQs0
     code: https://github.com/BYC-Sophie/TextMetrics
-    notes: Early Accept
+    # notes: Early Accept
     image: ./assets/img/adversarial-table.png
 
   - title: "Practicum-Oriented Entrepreneurship Education: A Systematic Literature Review"
@@ -29,14 +29,14 @@ main:
     conference: "AAAI-24 Bridge Program: Collaborative AI and Modelling of Human (CAIHu) (no proceedings)"
     # pdf: https://drive.google.com/drive/folders/1br7Z9wGzaCJLuDnCgkR2sJ_UoMsmZQs0
     # code: https://github.com/BYC-Sophie/TextMetrics
-    notes: Accept
+    # notes: Accept
 
   - title: "ChatASD: LLM-based AI Therapist for Autism Spectrum Disorder (ASD)"
-    authors: Xiaoyu Ren, <strong>Yuanchen Bai}</strong>, Huiyu Duan, Lei Fan, Erkang Fei, Geer Wu, Pradeep Ray, Menghan Hu, Guangtao Zhai
+    authors: Xiaoyu Ren, <strong>Yuanchen Bai</strong>, Huiyu Duan, Lei Fan, Erkang Fei, Geer Wu, Pradeep Ray, Menghan Hu, Guangtao Zhai
     conference: International Forum of Digital Multimedia Communication (IFTC), 2023
     # pdf: https://drive.google.com/drive/folders/1br7Z9wGzaCJLuDnCgkR2sJ_UoMsmZQs0
     # code: https://github.com/BYC-Sophie/TextMetrics
-    notes: Early Accept
+    # notes: Early Accept
 
   - title: "Systematic Literature Review: Equity and Technology in HCI and Fairness Community"
     authors: Seyun Kim, <strong>Yuanchen Bai</strong>, Motahhare Eslami, Haiyi Zhu
