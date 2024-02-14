@@ -4,9 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! I am a graduate student in Information Systems Management at Carnegie Mellon University (CMU) expected to graduate in 2023 Fall. Before joining CMU, I obtained a Bachelor of Science in Electrical and Computer Engineering at [University of Michigan –
-Shanghai Jiao Tong University
-Joint Institute](https://www.ji.sjtu.edu.cn/about/) with Outstanding Graduate Award and Academic Excellence Scholarship in June 2022. I also participated in the winter research program at Massachusetts Institute of Technology (MIT) for Robotics.
+Hi! I am a graduate student in Information Systems Management at Carnegie Mellon University (CMU) expected to graduate in 2023 Fall. Before joining CMU, I obtained a Bachelor of Science in Electrical and Computer Engineering at [UM–SJTU Joint Institute](https://www.ji.sjtu.edu.cn/about/) with Outstanding Graduate Award and Academic Excellence Scholarship in June 2022. I also participated in the winter research program at Massachusetts Institute of Technology (MIT) for Robotics.
 
 At CMU, I am fortunate to work with [Prof. Sherry Tongshuang Wu](https://www.cs.cmu.edu/~sherryw/) on AI Evaluation, with [Prof. Motahhare Eslami](https://www.hcii.cmu.edu/people/motahhare-eslami) and [Prof. Haiyi Zhu](https://hcii.cmu.edu/people/haiyi-zhu) on Equity in HCI. I also participated in a remote research internship with [Prof. Xiaojvan Ma](https://www.cse.ust.hk/~mxj/) on Human-Robot Value Alignment.
 
