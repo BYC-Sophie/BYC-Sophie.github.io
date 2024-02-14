@@ -1,9 +1,9 @@
 main:
   - title: Measuring Adversarial Datasets
     authors: <strong>Yuanchen Bai*</strong>,  Raoyi Huang*, Vijay Viswanathan, Tzu-Sheng Kuo, Tongshuang Wu
-    conference: IJCNLP-AACL (ART of Safety Workshop), 2023
-    conference_short: IJCNLP-AACL, 2023
-    pdf: https://arxiv.org/abs/2311.03566
+    conference: AACL ART of Safety 2023
+    conference_short: AACL, 2023
+    pdf: https://aclanthology.org/2023.artofsafety-1.4/
     code: https://github.com/BYC-Sophie/TextMetrics
     # notes: Early Accept
     image: ./assets/img/adversarial-table.png
@@ -41,9 +41,14 @@ main:
     # notes: Early Accept
     image: ./assets/img/LLM_ASD.png
 
-  - title: "Systematic Literature Review: Equity and Technology in HCI and Fairness Community"
+  - title: "A Systematic Literature Review on Equity and Technology: Navigating the Complexities and Nuances of Equity Research"
     authors: Seyun Kim, <strong>Yuanchen Bai</strong>, Motahhare Eslami, Haiyi Zhu
     # conference: Computer-Supported Cooperative Work & Social Computing (CSCW) January 2024 Cycle
     # pdf: https://drive.google.com/drive/folders/1br7Z9wGzaCJLuDnCgkR2sJ_UoMsmZQs0
     # code: https://github.com/BYC-Sophie/TextMetrics
     notes: Under Review at CSCW, 2024
+
+
+
+
+    
