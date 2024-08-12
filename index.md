@@ -21,7 +21,6 @@ At SJTU, I am fortunate to be adviced by [Prof. Pradeep Kumar Ray](https://sites
 - **[Oct. 2023]** Paper "Measuring Adversarial Datasets" has been accepted by AACL 2023.
 - **[Aug. 2023]** Started my internship at [Bayer Healthcare LLC](https://www.bayer.com/en/) for myRadiology360 cross-platform mobile application development and deployment.
 - **[June 2023]** Volunteered at [Pittsburgh Earth Day](https://pittsburghearthday.org/) working on a mobile app "Excess Eats" that helps people live a more sustainable life.
-- **[Sept. 2022]** Joined the MISM program at CMU.
 
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/projects.md %} 
