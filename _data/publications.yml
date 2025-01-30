@@ -5,8 +5,27 @@ main:
     conference_short: AACL, 2023
     pdf: https://aclanthology.org/2023.artofsafety-1.4/
     code: https://github.com/BYC-Sophie/TextMetrics
-    # notes: Early Accept
     image: ./assets/img/adversarial-table.png
+
+  - title: "A Systematic Literature Review on Equity and Technology in HCI and Fairness: Navigating the Complexities
+and Nuances of Equity Research"
+    authors: Seyun Kim, <strong>Yuanchen Bai</strong>, Motahhare Eslami, Haiyi Zhu
+    conference_short: CSCW, 2025
+    conference: ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing
+    pdf: https://arxiv.org/abs/2501.14886
+    image: ./assets/img/equity.png
+
+  - title: "FARPLS: A Feature-Augmented Robot Trajectory Preference Labeling System to Assist Human Labelers’ Preference Elicitation"
+    authors: Hanfang Lyu, <strong>Yuanchen Bai</strong>, Xin LIANG, Ujaan Das, Chuhan Shi, Leiliang Gong, Yingchi LI, Mingfei Sun, Ming Ge, Xiaojuan Ma
+    conference: ACM Conference on Intelligent User Interfaces
+    conference_short: IUI, 2024
+    pdf: https://drive.google.com/file/d/16BlwazD_OMaD9VPq3aEDSPAXQiKgLwV6/view?usp=drive_link
+    image: ./assets/img/label_system.png
+
+  - title: "FARPLS: Eliciting Preference Feedback for Robot Trajectories from Human Users"
+    authors: Hanfang Lyu, <strong>Yuanchen Bai</strong>, Xin LIANG, Ujaan Das, Chuhan Shi, Leiliang Gong, Yingchi LI, Mingfei Sun, Ming Ge, Xiaojuan Ma
+    conference: "AAAI-24 Bridge Program: Collaborative AI and Modelling of Human (CAIHu) (no proceedings)"
+    conference_short: AAAI, 2024
 
   - title: "Practicum-Oriented Entrepreneurship Education: A Systematic Literature Review"
     authors: Tianyu Chen, <strong>Yuanchen Bai</strong>, Pradeep Ray, Gang Zheng
@@ -15,38 +34,11 @@ main:
     pdf: https://link.springer.com/chapter/10.1007/978-981-19-2053-0_3
     image: ./assets/img/book-chapter-image.png
 
-  - title: "FARPLS: A Feature-Augmented Robot Trajectory Preference Labeling System to Assist Human Labelers’ Preference Elicitation"
-    authors: Hanfang Lyu, <strong>Yuanchen Bai</strong>, Xin LIANG, Ujaan Das, Chuhan Shi, Leiliang Gong, Yingchi LI, Mingfei Sun, Ming Ge, Xiaojuan Ma
-    conference: ACM Conference on Intelligent User Interfaces (ACM IUI, 2024)
-    conference_short: ACM IUI, 2024
-    pdf: https://drive.google.com/file/d/16BlwazD_OMaD9VPq3aEDSPAXQiKgLwV6/view?usp=drive_link
-    # code: https://github.com/BYC-Sophie/TextMetrics
-    # notes: Early Accept
-    image: ./assets/img/label_system.png
-
-  - title: "FARPLS: Eliciting Preference Feedback for Robot Trajectories from Human Users"
-    authors: Hanfang Lyu, <strong>Yuanchen Bai</strong>, Xin LIANG, Ujaan Das, Chuhan Shi, Leiliang Gong, Yingchi LI, Mingfei Sun, Ming Ge, Xiaojuan Ma
-    conference: "AAAI-24 Bridge Program: Collaborative AI and Modelling of Human (CAIHu) (no proceedings)"
-    conference_short: AAAI, 2024
-    # pdf: https://drive.google.com/drive/folders/1br7Z9wGzaCJLuDnCgkR2sJ_UoMsmZQs0
-    # code: https://github.com/BYC-Sophie/TextMetrics
-    # notes: Accept
-
   - title: "ChatASD: LLM-based AI Therapist for Autism Spectrum Disorder (ASD)"
     authors: Xiaoyu Ren*, <strong>Yuanchen Bai*</strong>, Huiyu Duan*, Lei Fan, Erkang Fei, Geer Wu, Pradeep Ray, Menghan Hu, Guangtao Zhai
     conference: International Forum of Digital Multimedia Communication (IFTC), 2023
     conference_short: IFTC, 2023
-    # pdf: https://drive.google.com/drive/folders/1br7Z9wGzaCJLuDnCgkR2sJ_UoMsmZQs0
-    # code: https://github.com/BYC-Sophie/TextMetrics
-    # notes: Early Accept
     image: ./assets/img/LLM_ASD.png
-
-  - title: "A Systematic Literature Review on Equity and Technology: Navigating the Complexities and Nuances of Equity Research"
-    authors: Seyun Kim, <strong>Yuanchen Bai</strong>, Motahhare Eslami, Haiyi Zhu
-    # conference: Computer-Supported Cooperative Work & Social Computing (CSCW) January 2024 Cycle
-    # pdf: https://drive.google.com/drive/folders/1br7Z9wGzaCJLuDnCgkR2sJ_UoMsmZQs0
-    # code: https://github.com/BYC-Sophie/TextMetrics
-    notes: Under Review at CSCW, 2024
 
 
 
