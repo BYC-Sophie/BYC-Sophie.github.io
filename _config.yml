@@ -2,7 +2,7 @@
 # Basic Information 
 title: Yuanchen (Sophie) Bai
 position: PhD@Cornell
-affiliation: AIRLab
+# affiliation: AIRLab
 email: yb299@cornell.edu
 
 # Search Engine Optimization (SEO)
@@ -21,9 +21,9 @@ linkedin: https://www.linkedin.com/in/sophie-yuanchen-bai-b08076247/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.jpg
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+avatar: ./assets/img/photo.jpeg
+favicon: ./assets/img/cornell_seal_simple_web_b31b1b.png
+favicon_dark: ./assets/img/cornell_seal_simple_web_b31b1b.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."

@@ -11,13 +11,13 @@ main:
 and Nuances of Equity Research"
     authors: Seyun Kim, <strong>Yuanchen Bai</strong>, Motahhare Eslami, Haiyi Zhu
     conference_short: CSCW, 2025
-    conference: ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing
+    conference: ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW 2025)
     pdf: https://arxiv.org/abs/2501.14886
     image: ./assets/img/equity.png
 
   - title: "FARPLS: A Feature-Augmented Robot Trajectory Preference Labeling System to Assist Human Labelers’ Preference Elicitation"
     authors: Hanfang Lyu, <strong>Yuanchen Bai</strong>, Xin LIANG, Ujaan Das, Chuhan Shi, Leiliang Gong, Yingchi LI, Mingfei Sun, Ming Ge, Xiaojuan Ma
-    conference: ACM Conference on Intelligent User Interfaces
+    conference: ACM Conference on Intelligent User Interfaces (IUI 2024)
     conference_short: IUI, 2024
     pdf: https://drive.google.com/file/d/16BlwazD_OMaD9VPq3aEDSPAXQiKgLwV6/view?usp=drive_link
     image: ./assets/img/label_system.png
