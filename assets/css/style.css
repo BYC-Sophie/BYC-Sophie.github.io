@@ -231,10 +231,28 @@ h2 {
 @media (max-width: 960px) {
   .grid {
     grid-template-columns: 1fr;
+    display: flex;
+    flex-direction: column;
   }
 
   .profile {
     grid-template-columns: 1fr;
+  }
+
+  .left-col {
+    display: contents;
+  }
+
+  .profile {
+    order: 1;
+  }
+
+  .right-col {
+    order: 2;
+  }
+
+  .left-stack {
+    order: 3;
   }
 
   .pub-card {

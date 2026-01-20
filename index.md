@@ -19,49 +19,51 @@ layout: default
       </div>
     </div>
 
-    <div class="card">
-      <h2>NEWS</h2>
-      <ul class="list list-dated">
-        {% for item in site.data.news %}
-        <li><span class="date">{{ item.date }}</span><span class="item-text">{{ item.text | markdownify | remove: "<p>" | remove: "</p>" }}</span></li>
-        {% endfor %}
-      </ul>
-    </div>
+    <div class="left-stack">
+      <div class="card">
+        <h2>NEWS</h2>
+        <ul class="list list-dated">
+          {% for item in site.data.news %}
+          <li><span class="date">{{ item.date }}</span><span class="item-text">{{ item.text | markdownify | remove: "<p>" | remove: "</p>" }}</span></li>
+          {% endfor %}
+        </ul>
+      </div>
 
-    <div class="card">
-      <h2>TALKS AND EVENTS</h2>
-      <ul class="list">
-        {% for item in site.data.talks %}
-        <li>{{ item.text | markdownify | remove: "<p>" | remove: "</p>" }}</li>
-        {% endfor %}
-      </ul>
-    </div>
+      <div class="card">
+        <h2>TALKS AND EVENTS</h2>
+        <ul class="list">
+          {% for item in site.data.talks %}
+          <li>{{ item.text | markdownify | remove: "<p>" | remove: "</p>" }}</li>
+          {% endfor %}
+        </ul>
+      </div>
 
-    <div class="card">
-      <h2>SELECTED AWARDS</h2>
-      <ul class="list list-dated">
-        {% for item in site.data.awards %}
-        <li><span class="date">{{ item.date }}</span><span class="item-text">{{ item.text | markdownify | remove: "<p>" | remove: "</p>" }}</span></li>
-        {% endfor %}
-      </ul>
-    </div>
+      <div class="card">
+        <h2>SELECTED AWARDS</h2>
+        <ul class="list list-dated">
+          {% for item in site.data.awards %}
+          <li><span class="date">{{ item.date }}</span><span class="item-text">{{ item.text | markdownify | remove: "<p>" | remove: "</p>" }}</span></li>
+          {% endfor %}
+        </ul>
+      </div>
 
-    <div class="card">
-      <h2>TEACHING & ACADEMIC SERVICE</h2>
-      <ul class="list">
-        {% for item in site.data.teaching %}
-        <li>{{ item.text | markdownify | remove: "<p>" | remove: "</p>" }}</li>
-        {% endfor %}
-      </ul>
-    </div>
+      <div class="card">
+        <h2>TEACHING & ACADEMIC SERVICE</h2>
+        <ul class="list">
+          {% for item in site.data.teaching %}
+          <li>{{ item.text | markdownify | remove: "<p>" | remove: "</p>" }}</li>
+          {% endfor %}
+        </ul>
+      </div>
 
-    <div class="card">
-      <h2>INDUSTRY EXPERIENCE</h2>
-      <ul class="list">
-        {% for item in site.data.industry %}
-        <li>{{ item.text | markdownify | remove: "<p>" | remove: "</p>" }}</li>
-        {% endfor %}
-      </ul>
+      <div class="card">
+        <h2>INDUSTRY EXPERIENCE</h2>
+        <ul class="list">
+          {% for item in site.data.industry %}
+          <li>{{ item.text | markdownify | remove: "<p>" | remove: "</p>" }}</li>
+          {% endfor %}
+        </ul>
+      </div>
     </div>
   </aside>
 
