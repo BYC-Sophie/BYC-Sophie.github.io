@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ site.title }}</title>
+    <meta name="description" content="{{ site.description }}">
+    <link rel="icon" href="{{ "/assets/img/cornell_seal_simple_web_b31b1b.png" | relative_url }}">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;500;600;700&display=swap">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}?v={{ site.time | date: "%s" }}">
+  </head>
+  <body>
+    <div class="page">
+      {{ content }}
+    </div>
+    <footer class="site-footer">
+      © 2026-Present Yuanchen Bai
+    </footer>
+  </body>
+</html>

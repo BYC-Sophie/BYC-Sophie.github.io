@@ -1,0 +1,18 @@
+- title: Analytical Workspace for Behavioral Intervention Specialists in Supporting People with Intellectual and Developmental Disabilities
+  # authors: Your Name, Collaborator
+  # venue: Red Dot Award 2024
+  image: assets/img/BIS.png
+  description: >-
+    An analytical workspace that unifies behavioral patterns, narratives, context, and professional reasoning into a coherent interface. It supports Behavioral Intervention Specialists in organizing and interpreting behavioral data, facilitating collaborative decision-making.
+  links:
+    - label: Press 1
+      url: https://www.pi.tech.cornell.edu/spotlight/building-multi-agent-systems-that-support-behavioral-specialists-working-with-people-with-intellectual-and-developmental-disabilities
+
+
+- title: General Motors WeChat Mini Program for Marketing and Customer Care
+  # authors: Your Name, Collaborator
+  # venue: Red Dot Award 2024
+  image: assets/img/GM-MiniProgram.png
+  description: >-
+    A full-stack Direct-to-Customer (D2C) Cloud-based WeChat Mini Program for marketing and customer care. Supported by backend data analytics for user profiles extraction and strategies evaluation. 
+

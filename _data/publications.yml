@@ -1,0 +1,60 @@
+- title: "Towards Considerate Embodied AI: Co-Designing Situated Multi-Site Healthcare Robots from Abstract Concepts to High-Fidelity Prototypes"
+  authors: <strong>Yuanchen Bai</strong>, Ruixiang Han, Niti Parikh, Wendy Ju, Angelique Taylor
+  venue: Under Review
+  image: assets/img/teaser.png
+  description: >-
+    We design high-fidelity robotic system prototypes that reduce healthcare workers’ burden and enhance care quality across emergency, rehabilitation, and sleep-care settings. Through long-term multidisciplinary co-design, we developed eight guidelines for creating considerate embodied AI systems, organized across four dimensions: Embodied Needs Grounding, Embodied Constraints & Feasibility, Embodied Literacy Building, and Embodied Design Space Expansion.
+  links:
+    - label: PDF
+      url: https://example.com/pdf
+    - label: Project Page
+      url: https://example.com
+- title: "From MAS to MARS: Coordination Failures and Reasoning Trade-offs in Hierarchical Multi-Agent Robotic Systems within a Healthcare Scenario"
+  authors: <strong>Yuanchen Bai</strong>, Zijian Ding, Shaoyue Wen, Xiang Chang, Angelique Taylor
+  venue: Under Review
+  image: assets/img/mars.png
+  description: >-
+    We evaluate a hierarchical multi-agent robotic system in a simulated healthcare scenario. Our analysis identifies coordination failure modes, compares the behaviors of reasoning and non-reasoning models, and reveals the autonomy–stability trade-offs.
+  links:
+    - label: PDF
+      url: https://arxiv.org/abs/2508.04691
+    - label: Project Page
+      url: https://byc-sophie.github.io/mas-to-mars/
+- title: "FARPLS: A Feature-Augmented Robot Trajectory Preference Labeling System to Assist Human Labelers’ Preference Elicitation"
+  authors: Hanfang Lyu, <strong>Yuanchen Bai</strong>, Xin LIANG, Ujaan Das, Chuhan Shi, Leiliang Gong, Yingchi LI, Mingfei Sun, Ming Ge, Xiaojuan Ma
+  venue: ACM Conference on Intelligent User Interfaces (IUI 2024)
+  image: assets/img/label_system.png
+  description: >-
+    We propose a feature-augmented robot trajectory preference labeling system that highlights outliers, extracts
+    keyframes, and adapts prompting based on user familiarity, comparison difficulty, and disagreement levels. It enhances
+    preference criteria formation, labeling consistency, and engagement without significantly increasing cognitive load.
+  links:
+    - label: PDF
+      url: https://dl.acm.org/doi/abs/10.1145/3640543.3645145
+- title: "A Systematic Literature Review on Equity and Technology in HCI and Fairness: Navigating the Complexities and Nuances of Equity Research"
+  authors: Seyun Kim, <strong>Yuanchen Bai</strong>, Motahhare Eslami, Haiyi Zhu
+  image: assets/img/equity.png
+  venue: 28th ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW 2025)
+  description: >-
+    This literature review analyzes 202 papers from HCI and Fairness-focused venues. We identify research motivations, equity definitions and frameworks, and key themes on interventions, tensions, and trade-offs. Based on our findings, we propose an equity framework to help researchers address gaps and advance equity in technology.
+  links:
+    - label: PDF
+      url: https://dl.acm.org/doi/abs/10.1145/3711079
+- title: "ChatASD: LLM-based AI Therapist for Autism Spectrum Disorder (ASD)"
+  authors: Xiaoyu Ren*, <strong>Yuanchen Bai*</strong>, Huiyu Duan*, Lei Fan, Erkang Fei, Geer Wu, Pradeep Ray, Menghan Hu, Guangtao Zhai
+  image: assets/img/LLM_ASD.png
+  venue: International Forum of Digital Multimedia Communication (IFTC 2023)
+  description: >-
+    We build an autism knowledge dataset covering education and real-case diagnostics. We propose ChatASD Therapist, an LLM-based diagnostic and treatment pipeline for autistic patients, supporting bilingual dialogue and facial video generation.
+  links:
+    - label: PDF
+      url: https://link.springer.com/chapter/10.1007/978-981-97-3626-3_23
+- title: "Measuring Adversarial Datasets"
+  authors: <strong>Yuanchen Bai*</strong>,  Raoyi Huang*, Vijay Viswanathan, Tzu-Sheng Kuo, Tongshuang Wu
+  image: assets/img/adversarial-table.png
+  venue: IJCNLP-AACL 2023 The ART of Safety Workshop
+  description: >-
+    We analyze adversarial NLP datasets by comparing them to their original counterparts using quantifiable metrics across difficulty, diversity, and disagreement. Our findings reveal the intended and unintended impacts of adversarial transformations, offering insights for more transparent model evaluation, dataset curation, and attack scenario design.
+  links:
+    - label: PDF
+      url: https://aclanthology.org/2023.artofsafety-1.4/   

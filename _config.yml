@@ -1,0 +1,7 @@
+title: Yuanchen (Sophie) Bai
+description: Personal website of Yuanchen (Sophie) Bai.
+url: https://yuanchenbai-sophie.github.io
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
