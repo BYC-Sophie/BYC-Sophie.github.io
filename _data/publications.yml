@@ -3,7 +3,7 @@
   venue: Under Review
   image: assets/img/teaser.png
   description: >-
-    We design high-fidelity robotic system prototypes that reduce healthcare workers’ burden and enhance care quality across emergency, rehabilitation, and sleep-care settings. Through long-term multidisciplinary co-design, we developed eight guidelines for creating considerate embodied AI systems, organized across four dimensions: Embodied Needs Grounding, Embodied Constraints & Feasibility, Embodied Literacy Building, and Embodied Design Space Expansion.
+    We design high-fidelity robotic system prototypes that reduce healthcare workers’ burden and enhance care quality across emergency, rehabilitation, and sleep-care settings. Wse developed eight guidelines for creating considerate embodied AI systems, organized across four dimensions: Embodied Needs Grounding, Embodied Constraints & Feasibility, Embodied Literacy Building, and Embodied Design Space Expansion.
   links:
     - label: PDF
       url: https://example.com/pdf
@@ -27,7 +27,7 @@
   description: >-
     We propose a feature-augmented robot trajectory preference labeling system that highlights outliers, extracts
     keyframes, and adapts prompting based on user familiarity, comparison difficulty, and disagreement levels. It enhances
-    preference criteria formation, labeling consistency, and engagement without significantly increasing cognitive load.
+    preference criteria formation, labeling consistency, and engagement.
   links:
     - label: PDF
       url: https://dl.acm.org/doi/abs/10.1145/3640543.3645145
@@ -54,7 +54,7 @@
   image: assets/img/adversarial-table.png
   venue: IJCNLP-AACL 2023 The ART of Safety Workshop
   description: >-
-    We analyze adversarial NLP datasets by comparing them to their original counterparts using quantifiable metrics across difficulty, diversity, and disagreement. Our findings reveal the intended and unintended impacts of adversarial transformations, offering insights for more transparent model evaluation, dataset curation, and attack scenario design.
+    We analyze adversarial NLP datasets by comparing them to their original counterparts using quantifiable metrics across difficulty, diversity, and disagreement. Our findings reveal the intended and unintended impacts of adversarial transformations, offering insights for more transparent evaluation and dataset curation.
   links:
     - label: PDF
       url: https://aclanthology.org/2023.artofsafety-1.4/   

@@ -124,7 +124,7 @@ h2 {
   list-style: none;
   padding: 0;
   margin: 0;
-  font-size: 0.85rem;
+  font-size: 0.8rem;
   color: var(--text);
 }
 
@@ -215,7 +215,7 @@ h2 {
 .pub-venue {
   /* color: var(--muted); */
   font-size: 0.8rem;
-  margin-bottom: 8px;
+  margin-bottom: 6px;
 }
 
 .pub-desc {

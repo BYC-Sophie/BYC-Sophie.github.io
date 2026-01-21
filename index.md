@@ -31,9 +31,9 @@ layout: default
 
       <div class="card">
         <h2>TALKS AND EVENTS</h2>
-        <ul class="list">
+      <ul class="list list-dated">
           {% for item in site.data.talks %}
-          <li>{{ item.text | markdownify | remove: "<p>" | remove: "</p>" }}</li>
+        <li><span class="date">{{ item.date }}</span><span class="item-text">{{ item.text | markdownify | remove: "<p>" | remove: "</p>" }}</span></li>
           {% endfor %}
         </ul>
       </div>
@@ -79,7 +79,7 @@ layout: default
     </section>
 
     <section class="block">
-      <h2>SELECTED PUBLICATIONS <span class="section-note">(* equal contributions)</span></h2>
+      <h2>PUBLICATIONS <span class="section-note">(* equal contributions)</span></h2>
       {% for pub in site.data.publications %}
       <div class="pub-card">
         <div class="pub-media">
@@ -101,7 +101,7 @@ layout: default
     </section>
 
     <section class="block">
-      <h2>OTHER SELECTED DESIGN</h2>
+      <h2>OTHER DESIGN</h2>
       {% for design in site.data.designs %}
       <div class="pub-card">
         <div class="pub-media">

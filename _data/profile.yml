@@ -1,18 +1,20 @@
-name: Yuanchen (Sophie) Bai
-title: Ph.D. Student @ Cornell
-subtitle: Information Science
-email: yb299[at]cornell.edu
-photo: assets/img/profile.jpg
+name: "Yuanchen (Sophie) Bai"
+title: "Ph.D. Student @ Cornell"
+subtitle: "Information Science"
+email: "yb299[at]cornell.edu"
+photo: "assets/img/profile.jpg"
 links:
-  cv: https://example.com/cv
-  scholar: https://scholar.google.com/citations?user=2QjBgj0AAAAJ&hl=en
-  linkedin: https://www.linkedin.com/in/sophie-yuanchen-bai-b08076247/
+  cv: "https://example.com/cv"
+  scholar: "https://scholar.google.com/citations?user=2QjBgj0AAAAJ&hl=en"
+  linkedin: "https://www.linkedin.com/in/sophie-yuanchen-bai-b08076247/"
 about: |
-  Hi! I am currently a second-year Ph.D. student in Information Science at Cornell University and am fortunate to be advised by [Prof. Angelique Taylor](https://airlab.cis.cornell.edu/). Before joining Cornell, I obtained my Master's degree from Carnegie Mellon University (CMU) and a Bachelor of Science in Electrical and Computer Engineering at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) with Outstanding Graduate Award and Academic Excellence Scholarship. I also participated in the winter research program at Massachusetts Institute of Technology (MIT) for Robotics.
+  Hi! I am currently a second-year Ph.D. student in Information Science at Cornell University and am fortunate to be advised by [Prof. Angelique Taylor](https://airlab.cis.cornell.edu/).
 
-  At CMU, I am fortunate to work with [Prof. Sherry Tongshuang Wu](https://www.cs.cmu.edu/~sherryw/) on AI Evaluation, with [Prof. Motahhare Eslami](https://www.hcii.cmu.edu/people/motahhare-eslami) and [Prof. Haiyi Zhu](https://hcii.cmu.edu/people/haiyi-zhu) on Equity in HCI. I also participated in a remote research internship with [Prof. Xiaojvan Ma](https://www.cse.ust.hk/~mxj/) on Human-Robot Value Alignment.
+  Before joining Cornell, I obtained my Master's degree from Carnegie Mellon University (CMU). I was fortunate to work with [Prof. Sherry Tongshuang Wu](https://www.cs.cmu.edu/~sherryw/), [Prof. Motahhare Eslami](https://www.hcii.cmu.edu/people/motahhare-eslami), and [Prof. Haiyi Zhu](https://hcii.cmu.edu/people/haiyi-zhu). I also participated in a remote research internship with [Prof. Xiaojuan Ma](https://www.cse.ust.hk/~mxj/).
 
-  At SJTU, I am fortunate to be adviced by [Prof. Pradeep Kumar Ray](https://scholar.google.com/citations?user=WUSRbsMAAAAJ&hl=en) on Technology Entrepreneurship. I am curretly co-mentored by Prof. Pradeep Ray and [Prof. Guangtao Zhai](https://scholar.google.ca/citations?user=E6zbSYgAAAAJ&hl=en), on asisstive technology for ASD detection and intervention.
+  I obtained my Bachelor of Science in Electrical and Computer Engineering from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) with Outstanding Graduate Award and Academic Excellence Scholarship. I was fortunate to be advised by [Prof. Pradeep Kumar Ray](https://scholar.google.com/citations?user=WUSRbsMAAAAJ&hl=en) and [Prof. Guangtao Zhai](https://scholar.google.ca/citations?user=E6zbSYgAAAAJ&hl=en). During this time, I also participated in the winter research program at Massachusetts Institute of Technology (MIT) for Robotics.
+
 research_interests: >-
-  Human–AI/Computer/Robot Interaction (HAI/HCI/HRI); designing, building, and evaluating Embodied Agentic AI to improve real-world workflows and empower non-technical communities to meaningfully interact with these systems. I primarily work in healthcare domains, but I am also excited to explore broader application areas.
+  I design, build, and evaluate **Embodied Agentic AI** to improve **real-world workflows** and empower **non-technical communities** to meaningfully interact with these systems. 
+  I primarily work in **healthcare domains**, but I am also excited to explore broader contexts. 
 
