@@ -4,11 +4,11 @@
   image: assets/img/teaser.png
   description: >-
     We design high-fidelity robotic system prototypes that reduce healthcare workers’ burden and enhance care quality across emergency, rehabilitation, and sleep-care settings. Wse developed eight guidelines for creating considerate embodied AI systems, organized across four dimensions: Embodied Needs Grounding, Embodied Constraints & Feasibility, Embodied Literacy Building, and Embodied Design Space Expansion.
-  links:
-    - label: PDF
-      url: https://example.com/pdf
-    - label: Project Page
-      url: https://example.com
+  # links:
+  #   - label: PDF
+  #     url: https://example.com/pdf
+  #   - label: Project Page
+  #     url: https://example.com
 - title: "From MAS to MARS: Coordination Failures and Reasoning Trade-offs in Hierarchical Multi-Agent Robotic Systems within a Healthcare Scenario"
   authors: <strong>Yuanchen Bai</strong>, Zijian Ding, Shaoyue Wen, Xiang Chang, Angelique Taylor
   venue: Under Review
