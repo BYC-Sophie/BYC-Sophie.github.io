@@ -12,7 +12,7 @@ layout: default
         <div class="profile-subtitle">{{ site.data.profile.subtitle }}</div>
         <div class="profile-email">{{ site.data.profile.email }}</div>
         <div class="profile-links">
-          <a href="{{ site.data.profile.links.cv }}">[CV]</a>
+          <a href="{{ site.data.profile.links.cv | relative_url }}">[CV]</a>
           <a href="{{ site.data.profile.links.scholar }}">[Google Scholar]</a>
           <a href="{{ site.data.profile.links.linkedin }}">[LinkedIn]</a>
         </div>
