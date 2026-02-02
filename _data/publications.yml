@@ -1,6 +1,6 @@
 - title: "Towards Considerate Embodied AI: Co-Designing Situated Multi-Site Healthcare Robots from Abstract Concepts to High-Fidelity Prototypes"
   authors: <strong>Yuanchen Bai</strong>, Ruixiang Han, Niti Parikh, Wendy Ju, Angelique Taylor
-  venue: Under Review
+  venue: ACM CHI Conference on Human Factors in Computing Systems (CHI 2026)
   image: assets/img/teaser.png
   description: >-
     We design high-fidelity robotic system prototypes that reduce healthcare workers’ burden and enhance care quality across emergency, rehabilitation, and sleep-care settings. Wse developed eight guidelines for creating considerate embodied AI systems, organized across four dimensions: Embodied Needs Grounding, Embodied Constraints & Feasibility, Embodied Literacy Building, and Embodied Design Space Expansion.
