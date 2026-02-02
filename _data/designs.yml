@@ -8,6 +8,14 @@
     - label: Press
       url: https://www.pi.tech.cornell.edu/spotlight/building-multi-agent-systems-that-support-behavioral-specialists-working-with-people-with-intellectual-and-developmental-disabilities
 
+- title: Bayer Healthcare Educational Information Mobile App 
+  # authors: Your Name, Collaborator
+  # venue: Red Dot Award 2024
+  image: assets/img/bayer-ui.png
+  description: >-
+    A cross-platform mobile application myRadiology360 developed by Flutter  which offers educational resources on imaging exams and disease states for patients.
+
+
 - title: General Motors WeChat Mini Program for Marketing and Customer Care
   # authors: Your Name, Collaborator
   # venue: Red Dot Award 2024
