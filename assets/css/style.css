@@ -189,10 +189,16 @@ h2 {
   gap: 8px;
 }
 
-.pub-media img {
+.pub-image {
   width: 100%;
   border-radius: 8px;
   object-fit: cover;
+}
+
+.pub-image.image-small {
+  max-height: 90px;
+  object-fit: contain;
+  align-self: center;
 }
 
 .pub-links {

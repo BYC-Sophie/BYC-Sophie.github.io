@@ -83,7 +83,7 @@ layout: default
       {% for pub in site.data.publications %}
       <div class="pub-card">
         <div class="pub-media">
-          <img src="{{ pub.image | relative_url }}" alt="{{ pub.title }}">
+          <img class="pub-image{% if pub.image_class %} {{ pub.image_class }}{% endif %}" src="{{ pub.image | relative_url }}" alt="{{ pub.title }}">
           <div class="pub-links">
             {% for link in pub.links %}
             <a href="{{ link.url }}">[{{ link.label }}]</a>
@@ -105,7 +105,7 @@ layout: default
       {% for design in site.data.designs %}
       <div class="pub-card">
         <div class="pub-media">
-          <img src="{{ design.image | relative_url }}" alt="{{ design.title }}">
+          <img class="pub-image{% if design.image_class %} {{ design.image_class }}{% endif %}" src="{{ design.image | relative_url }}" alt="{{ design.title }}">
           <div class="pub-links">
             {% for link in design.links %}
             <a href="{{ link.url }}">[{{ link.label }}]</a>
