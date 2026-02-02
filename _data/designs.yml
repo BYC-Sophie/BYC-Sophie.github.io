@@ -11,7 +11,7 @@
 - title: Bayer Healthcare Educational Information Mobile App 
   # authors: Your Name, Collaborator
   # venue: Red Dot Award 2024
-  image: assets/img/bayer-ui.png
+  image: assets/img/bayer-ui-new.png
   image_class: image-small
   description: >-
     A cross-platform mobile application myRadiology360 developed by Flutter  which offers educational resources on imaging exams and disease states.
