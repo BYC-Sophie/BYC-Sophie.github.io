@@ -5,9 +5,8 @@
   description: >-
     An analytical workspace that unifies behavioral patterns, narratives, context, and professional reasoning into a coherent interface. It supports Behavioral Intervention Specialists in organizing and interpreting behavioral data, facilitating collaborative decision-making.
   links:
-    - label: Press 1
+    - label: Press
       url: https://www.pi.tech.cornell.edu/spotlight/building-multi-agent-systems-that-support-behavioral-specialists-working-with-people-with-intellectual-and-developmental-disabilities
-
 
 - title: General Motors WeChat Mini Program for Marketing and Customer Care
   # authors: Your Name, Collaborator
