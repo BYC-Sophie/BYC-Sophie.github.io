@@ -4,12 +4,22 @@
   image: assets/img/teaser.png
   description: >-
     We design high-fidelity robotic system prototypes that reduce healthcare workers’ burden and enhance care quality across emergency, rehabilitation, and sleep-care settings. Wse developed eight guidelines for creating considerate embodied AI systems, organized across four dimensions: Embodied Needs Grounding, Embodied Constraints & Feasibility, Embodied Literacy Building, and Embodied Design Space Expansion.
-  # links:
-  #   - label: PDF
-  #     url: https://example.com/pdf
-  #   - label: Project Page
-  #     url: https://example.com
-- title: "From MAS to MARS: Coordination Failures and Reasoning Trade-offs in Hierarchical Multi-Agent Robotic Systems within a Healthcare Scenario"
+  links:
+    - label: PDF
+      url: https://arxiv.org/abs/2602.03054
+    - label: Project Page
+      url: https://byc-sophie.github.io/Towards-Considerate-Embodied-AI/
+- title: "Towards Considerate Human-Robot Coexistence: A Dual-Space Framework of Robot Design and Human Perception in Healthcare"
+  authors: <strong>Yuanchen Bai</strong>, Zijian Ding, Ruixiang Han, Niti Parikh, Wendy Ju, Angelique Taylor
+  venue: Under Review
+  image: assets/img/loop.png
+  description: >-
+    We enrich the conceptual framework of human–robot coexistence by conceptualizing the mutual relationship between the human perception space and the robot design space as a co-evolving loop, in which human needs, design decisions, situated interpretations, and social mediation continuously reshape one another over time.
+  links:
+    - label: PDF
+      url: https://arxiv.org/abs/2604.04374
+
+- title: "Before Humans Join the Team: Diagnosing Coordination Failures in Healthcare Robot Team Simulation"
   authors: <strong>Yuanchen Bai</strong>, Zijian Ding, Shaoyue Wen, Xiang Chang, Angelique Taylor
   venue: Under Review
   image: assets/img/mars.png
@@ -20,6 +30,18 @@
       url: https://arxiv.org/abs/2508.04691
     - label: Project Page
       url: https://byc-sophie.github.io/mas-to-mars/
+- title: "BREPAIR-Bench: A Benchmark for Robot Error Perception and Interaction Recovery"
+  authors: Giuliano Pioldi, Yashika Batra, <strong>Yuanchen Bai</strong>, Purnjay Marur, Arman Ibrayeva, Promise Ekpo, Angelique Taylor
+  venue: Under Review
+  image: assets/img/repair-benchmark.png
+  description: >-
+    We present a benchmark for robot error perception and interaction recovery built on 214 interaction trials from 41 participants. The benchmark spans three evaluation tasks that jointly capture the lifecycle of failure in HRI: (i) failure detection over inter-dependent interaction sessions, modeling longitudinal user adaptation across repeated failures; (ii) visual failuretype classification beyond binary success/failure formulations; and (iii) user-centered recovery prediction, inferring users’ preferred recovery strategies from interaction context rather than relying on manually designed or rule-based strategies.
+  # links:
+  #   - label: PDF
+  #     url: https://arxiv.org/abs/2604.04418
+  #   - label: Project Page
+  #     url: https://byc-sophie.github.io/BREPAIR-Bench/
+
 - title: "FARPLS: A Feature-Augmented Robot Trajectory Preference Labeling System to Assist Human Labelers’ Preference Elicitation"
   authors: Hanfang Lyu, <strong>Yuanchen Bai</strong>, Xin LIANG, Ujaan Das, Chuhan Shi, Leiliang Gong, Yingchi LI, Mingfei Sun, Ming Ge, Xiaojuan Ma
   venue: ACM Conference on Intelligent User Interfaces (IUI 2024)

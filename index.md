@@ -79,7 +79,7 @@ layout: default
     </section>
 
     <section class="block">
-      <h2>PUBLICATIONS <span class="section-note">(* equal contributions)</span></h2>
+      <h2>SELECTED PUBLICATIONS <span class="section-note">(* equal contributions)</span></h2>
       {% for pub in site.data.publications %}
       <div class="pub-card">
         <div class="pub-media">
