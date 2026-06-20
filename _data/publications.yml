@@ -11,7 +11,7 @@
       url: https://byc-sophie.github.io/Towards-Considerate-Embodied-AI/
 - title: "Towards Considerate Human-Robot Coexistence: A Dual-Space Framework of Robot Design and Human Perception in Healthcare"
   authors: <strong>Yuanchen Bai</strong>, Zijian Ding, Ruixiang Han, Niti Parikh, Wendy Ju, Angelique Taylor
-  venue: Under Review
+  venue: IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2026) 
   image: assets/img/loop.png
   description: >-
     We enrich the conceptual framework of human–robot coexistence by conceptualizing the mutual relationship between the human perception space and the robot design space as a co-evolving loop, in which human needs, design decisions, situated interpretations, and social mediation continuously reshape one another over time.
