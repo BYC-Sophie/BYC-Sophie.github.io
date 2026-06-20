@@ -5,7 +5,7 @@
 :root {
   --text: #2f2f2f;
   --muted: #6f6f6f;
-  --link: #009cd2;
+  --link: #0a6aa8;
   --border: #e6e6e6;
   --card-bg: #fafafa;
   --bg: #ffffff;
@@ -227,7 +227,7 @@ h2 {
 }
 
 .pub-desc {
-  font-size: 0.8rem;
+  font-size: 0.85rem;
   color: #4a4a4a;
   line-height: 1.5;
 }
