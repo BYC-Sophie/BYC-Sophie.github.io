@@ -30,6 +30,13 @@
       url: https://arxiv.org/abs/2508.04691
     - label: Project Page
       url: https://byc-sophie.github.io/mas-to-mars/
+- title: "TalktoMeKindly: Designing AI Companions to Foster Positive Self-Talk in Young Adults"
+  authors: Ann-Kareen Gedeus, Nadine Wagener, Yingxuan Li, <strong>Yuanchen Bai</strong>, Joshua Felver, JoAnn Difede, So-Yeon Yoon, Angelique Taylor
+  venue: Nordic Conference on Human-Computer Interaction (NordiCHI 2026)
+  image: assets/img/haist.png
+  description: >-
+    We explore the design of AI companions that support positive self-talk and emotional well-being for young adults through reflective and conversational interactions.
+  links: []
 - title: "BREPAIR-Bench: A Benchmark for Robot Error Perception and Interaction Recovery"
   authors: Giuliano Pioldi, Yashika Batra, <strong>Yuanchen Bai</strong>, Purnjay Marur, Arman Ibrayeva, Promise Ekpo, Angelique Taylor
   venue: Under Review
